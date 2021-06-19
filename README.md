@@ -1,5 +1,7 @@
 A class project with Smu-blockchain-2021-group1.
+
 A simple dapp with react and web3 to connect with a library smart contract.
+
 This is not a working product.
 
 # Getting Started with Create React App
