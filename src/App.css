@@ -1,0 +1,13 @@
+.inputfield {
+  width: 500px;
+  border: unset;
+}
+
+.photo {
+  height: 100px;
+  width: 450px;
+  margin: 10px;
+  margin-left: 30%;
+  justify-content: center;
+  text-align: center;
+}
